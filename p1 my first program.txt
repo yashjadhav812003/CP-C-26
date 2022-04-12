@@ -2,7 +2,8 @@
 #include <stdio.h>
 int main()
 {
-   print("talk to the teacher\n");
+   printf("talk to the teacher\n");
+   printf("welcome\n");
    return 0;
 }
 
@@ -10,3 +11,4 @@ int main()
 
 
 Output-talk to my teacher
+       welcome
